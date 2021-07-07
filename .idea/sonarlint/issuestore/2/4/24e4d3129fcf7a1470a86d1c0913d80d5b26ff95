@@ -1,0 +1,26 @@
+
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¼‰ïıÿÿÿÿ8Ğ«Ï¯¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êÒ²ê8Ğ«Ï¯¦/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(“ã¨úøÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ì°Ãüÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿĞ®äıÿÿÿÿ8Ğ«Ï¯¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½­äî8Ğ«Ï¯¦/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ˆ®Ú—8Ğ«Ï¯¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÕËÉıÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(›’„íÿÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(½Å“›ûÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(á¢Îùÿÿÿÿ8Ğ«Ï¯¦/
+g	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(Ü‹›Ïûÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(üÃü¹ıÿÿÿÿ8Ğ«Ï¯¦/
+s
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(“ã¨úøÿÿÿÿ8Ğ«Ï¯¦/
+s
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(›’„íÿÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼‰ïıÿÿÿÿ8Ğ«Ï¯¦/
+c	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(³ÿ¼8Ğ«Ï¯¦/
+Y
+java:S1854"7Remove this useless assignment to local variable "key".(šÎ¸şÿÿÿÿ8Ğ«Ï¯¦/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ğ«Ï¯¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡¬¢Û8Ğ«Ï¯¦/

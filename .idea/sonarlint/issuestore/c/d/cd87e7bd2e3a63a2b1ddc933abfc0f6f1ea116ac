@@ -1,0 +1,28 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘8›¥œ‡¦/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ß›Ë©ûÿÿÿÿ8›¥œ‡¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8›¥œ‡¦/
+Z
+java:S1197+"8Move the array designator from the variable to the type.(Ççíúÿÿÿÿ8›¥œ‡¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é©¦ê8›¥œ‡¦/
+s
+java:S3457N"Q%n should be used in place of \n to produce the platform-specific line separator.(Õ­µûÿÿÿÿ8›¥œ‡¦/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Õ­µûÿÿÿÿ8›¥œ‡¦/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8›¥œ‡¦/
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ÑÅ¯åÿÿÿÿÿ8ÏÕå‡¦/
+Z
+java:S1197c"8Move the array designator from the variable to the type.(ÒÆ¡—úÿÿÿÿ8“ÔÀ‡¦/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÏÕå‡¦/
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(‘Ë£8ÏÕå‡¦/
+E	java:S108u")Either remove or fill this block of code.(”ý¾8ÏÕå‡¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ë£8›¥œ‡¦/
+U
+java:S1197"8Move the array designator from the variable to the type.(ß“ßí8›¥œ‡¦/
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÏÕå‡¦/
+c
+java:S1075>"ARefactor your code to get this URI from a customizable parameter.(Ð¥ç—úÿÿÿÿ8Èô¯‡¦/
+F
+java:S1481\")Remove this unused "nums" local variable.(£÷çö8úò¼‡¦/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8›¥œ‡¦/
+E	java:S108H")Either remove or fill this block of code.(ï­£Ä8Š¾ ‡¦/

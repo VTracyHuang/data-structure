@@ -1,0 +1,29 @@
+
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(üÃü¹ıÿÿÿÿ8õ³¡‰¦/
+n
+java:S3457x"Q%n should be used in place of \n to produce the platform-specific line separator.(ê ‹ú8ùù£‰¦/
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(üÃü¹ıÿÿÿÿ8õ³¡‰¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÕËÉıÿÿÿÿ8‹«‰¦/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(‡¬¢Û8éÆ°‰¦/
+g	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ùù£‰¦/
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥Á«äşÿÿÿÿ8ùù£‰¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿĞ®äıÿÿÿÿ8Å‡ª‰¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êÒ²ê8å±©‰¦/
+Y
+java:S1854"7Remove this useless assignment to local variable "key".(å‚¦´ıÿÿÿÿ8„ÿ§‰¦/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(“ã¨úøÿÿÿÿ8ØÄ¶‰¦/
+s
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(“ã¨úøÿÿÿÿ8ØÄ¶‰¦/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÜÛ½‰¦/
+s
+java:S34570"Q%n should be used in place of \n to produce the platform-specific line separator.(›’„íÿÿÿÿÿ8“ˆ»‰¦/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ØÄ¶‰¦/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ì°Ãüÿÿÿÿ8å±©‰¦/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½­äî8ØÒ«‰¦/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(ê ‹ú8õ³¡‰¦/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Åşøê8õ³¡‰¦/
+€
+java:S1192t"^Define a constant instead of duplicating this literal "é˜Ÿåˆ—ç©ºçš„ï¼Œæ²¡æœ‰æ•°æ®~~" 3 times.(üÃü¹ıÿÿÿÿ8õ³¡‰¦/
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(ƒâ€Úùÿÿÿÿ8õ³¡‰¦/
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(›’„íÿÿÿÿÿ8ªƒº‰¦/
